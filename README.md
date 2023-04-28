@@ -1,2 +1,2 @@
 # practice
-Get user input and find biggest in five numbers
+## Algirithm of biggest in 5 numbers
