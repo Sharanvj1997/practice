@@ -11,4 +11,12 @@
 ### step 5 
 #### Then we can find a maximum number of list by using a inbuild function ,max(list) it will return a maximum of given list.
 
-#
+## Algorithm of palindrome string
+### step 1
+#### We need to get a user input of any string.
+### step 2
+#### Then we have to create  a variable which is having a empty value ,(i,e) y =""
+### step 3
+#### after this iterate a for loop in the string, then we have to add this string to y ,(i,e) y = i+y
+### step 4
+#### Then we have to compare this variable to sting by using if statement,if the statement is true the given string is palindrome.
