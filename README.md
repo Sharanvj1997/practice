@@ -20,3 +20,13 @@
 #### after this iterate a for loop in the string, then we have to add this string to y ,(i,e) y = i+y
 ### step 4
 #### Then we have to compare this variable to sting by using if statement,if the statement is true the given string is palindrome.
+
+## Algorithm of prime numbers
+### step 1
+#### we need to create a list which is having a set numbers with it.
+### step 2
+#### then we have to create a empty list
+### step 3
+#### after this iterate a for loop in the range of 1,len(list)),then we can find the prime numbers by using a if condition
+### step 4
+#### The condition is if x%2==1:(pime numbers are numbers that have only 2 factors,1 and themselves), if the number after divisible by 2 it return 1 ,then it's a prime number.
